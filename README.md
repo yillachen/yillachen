@@ -6,7 +6,7 @@ She/Her — Based in NYC
   💾 I'm passionate about beautiful, accessible UX/UI design and love learning new technologies!
 </p>
 
-Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!)<br />
+Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!),<br />
 DIY interior design like painting murals on my walls and restoring furniture, <br />
 and being with the people I love.
 
