@@ -1,14 +1,10 @@
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding-bottom: 25px;">
-
-<div>
 <h3>Hi, I'm Yilla! 👋</h3>
-She/her — NYC
-</div>
-
-<div style="padding-left: 25px;">🎓 Recent graduate of the <a href="www.gracehopper.com">Grace Hopper Program</a>.<br /><br />
+She/Her — Based in NYC
+<br><br>
+<p>
+  🎓 Recent graduate of the <a href="www.gracehopper.com">Grace Hopper Program</a>.<br />
 💾 I'm passionate about beautiful and accessible UX/UI design and love learning new technologies!
-</div>
-</div>
+  </p>
 
 Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!), DIY interior design like painting murals on my walls and restoring furniture, and being with the people I love.
 
