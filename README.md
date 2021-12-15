@@ -3,10 +3,12 @@ She/Her — Based in NYC
 <br><br>
 <p>
   🎓 Recent graduate of the <a href="www.gracehopper.com">Grace Hopper Program</a>.<br />
-💾 I'm passionate about beautiful and accessible UX/UI design and love learning new technologies!
-  </p>
+  💾 I'm passionate about beautiful, accessible UX/UI design and love learning new technologies!
+</p>
 
-Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!), DIY interior design like painting murals on my walls and restoring furniture, and being with the people I love.
+Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!)<br />
+DIY interior design like painting murals on my walls and restoring furniture, <br />
+and being with the people I love.
 
 <h3>Languages & Tech</h3>
 <div style="display: flex; flex-wrap: wrap; padding-bottom: 25px;">
