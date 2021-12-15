@@ -30,14 +30,5 @@ Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!), DIY i
 
 <h3>Connect with Me!</h3>
 <div>
-<a href="https://linkedin.com/in/yilla-chen"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
-
+<a href="https://linkedin.com/in/yilla-chen"><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 </div>
-
-<style>
-  img {
-    max-height: 25px;
-    max-width: 25px;
-    margin: 10px 10px 0 0;
-  }
-</style>
