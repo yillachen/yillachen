@@ -1,15 +1,18 @@
-<h3>Hi, I'm Yilla! 👋</h3>
+
+  <h3>Hi, I'm Yilla! 👋</h3>
 She/Her — Based in NYC
 <br><br>
 <p>
   🎓 Recent graduate of the <a href="www.gracehopper.com">Grace Hopper Program</a>.<br />
   💾 I'm passionate about beautiful, accessible UX/UI design and love learning new technologies!
 </p>
+<hr />
 
-Outside of surfing the web 🏄, I enjoy skincare (I was an esthetician!),<br />
-DIY interior design like painting murals on my walls and restoring furniture, <br />
-and being with the people I love.
-
+Outside of surfing the web 🏄, I enjoy:<br>
+  <br>💆‍♀️ Skincare (I was an esthetician!) and skin science
+  <br>🛋 DIY interior design — painting murals & restoring furniture
+  <br>🥂 Toasting to new adventures with the people I love
+<hr />
 <h3>Languages & Tech</h3>
 <div style="display: flex; flex-wrap: wrap; padding-bottom: 25px;">
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -17,7 +20,7 @@ and being with the people I love.
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><br />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" />
@@ -25,7 +28,7 @@ and being with the people I love.
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" />
 </div>
-
+<hr />
 <h3>Connect with Me!</h3>
 <div>
 <a href="https://linkedin.com/in/yilla-chen"><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
