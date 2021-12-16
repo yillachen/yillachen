@@ -1,6 +1,5 @@
 <h3>Hi, I'm Yilla! 👋</h3>
-She/Her — Based in NYC 
-<br><a href="https://linkedin.com/in/yilla-chen"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/yilla-chen"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
 <br><br>
 <p>
   🎓 Recent graduate of the <a href="https://www.gracehopper.com">Grace Hopper Program</a>.<br />
