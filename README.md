@@ -3,12 +3,12 @@ She/Her — Based in NYC
 <br><a href="https://linkedin.com/in/yilla-chen"><img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
 <br><br>
 <p>
-  🎓 Recent graduate of the <a href="www.gracehopper.com">Grace Hopper Program</a>.<br />
+  🎓 Recent graduate of the <a href="https://www.gracehopper.com">Grace Hopper Program</a>.<br />
   💾 I'm passionate about beautiful, accessible UX/UI design and love learning new technologies!
 </p>
 
 Outside of surfing the web 🏄, I enjoy:
-  <br>💆‍♀️ Skincare (I was an esthetician!) and skin science
+  <br>💆‍♀️ Skincare and skin science (I'm an esthetician, too!)
   <br>🛋 DIY interior design — painting murals & restoring furniture
   <br>🥂 Toasting to new adventures with the people I love
 
