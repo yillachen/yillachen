@@ -1,10 +1,9 @@
 <h3>Hi, I'm Yilla! 👋</h3>
+<p>
+  💾 I'm a full stack engineer, who's passionate about beautiful, accessible UX/UI design.
+</p>
 <a href="https://linkedin.com/in/yilla-chen"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
 <br><br>
-<p>
-  🎓 Recent graduate of the <a href="https://www.gracehopper.com">Grace Hopper Program</a>.<br />
-  💾 I'm passionate about beautiful, accessible UX/UI design and love learning new technologies!
-</p>
 
 Outside of surfing the web 🏄, I enjoy:
   <br>💆‍♀️ Skincare and skin science (I'm an esthetician, too!)
