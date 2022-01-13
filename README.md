@@ -1,9 +1,9 @@
 <h3>Hi, I'm Yilla! 👋</h3>
 <p>
-  💾 I'm a full stack engineer, who's passionate about beautiful, accessible UX/UI design.
+  💾 I'm a full stack engineer, who's passionate about beautiful UX/UI design and accessibility in tech.
 </p>
 
-Outside of surfing the web 🏄, I enjoy:
+Outside of coding & surfing the web 🏄, I enjoy:
   <br>💆‍♀️ Skincare and skin science (I'm a licensed esthetician, too!)
   <br>🛋 DIY interior design — painting murals & restoring furniture
   <br>🥂 Toasting to new adventures with the people I love
