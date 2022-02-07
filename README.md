@@ -6,6 +6,7 @@
 Outside of coding & surfing the web 🏄, I enjoy:
   <br>💆‍♀️ Skincare and skin science (I'm a licensed esthetician, too!)
   <br>🛋 DIY interior design — painting murals & restoring furniture
+  <br>💻 Currently designed a TypeScript—React portfolio website.
 
 <h3>Languages & Tech</h3>
 <div style="display: flex; flex-wrap: wrap; padding-bottom: 25px;">
