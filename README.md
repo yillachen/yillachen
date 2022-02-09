@@ -9,7 +9,7 @@ Outside of coding & surfing the web 🏄, I enjoy:
   <br>💻 Currently designing a TypeScript—React portfolio website.
 
 <h3>Languages & Tech</h3>
-<div style="display: flex; flex-wrap: wrap; padding-bottom: 25px;">
+<div>
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" />
@@ -23,3 +23,9 @@ Outside of coding & surfing the web 🏄, I enjoy:
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
 <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" alt="Sequelize" />
 </div>
+<br />
+
+<table border="0">
+  <tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=yillachen&hide=issues,stars&show_icons=true&card_width=450" /></td><td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yillachen&layout=compact&hide=Ruby&card_width=450" /></td></tr>
+  </table>
