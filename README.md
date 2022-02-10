@@ -1,12 +1,13 @@
 <h3>Hi, I'm Yilla! 👋</h3>
 <p>
-  💾 I'm a full stack engineer, who's passionate about beautiful UX/UI design and accessibility in tech.
+  I'm a full stack engineer, who's passionate about building intuitive apps with beautiful UX/UI design.
 </p>
 
-Outside of coding & surfing the web 🏄, I enjoy:
-  <br>💆‍♀️ Skincare and skin science (I'm a licensed esthetician, too!)
+Outside of coding & 🏄 the web, I enjoy:
+  <br>💆‍♀️ Skincare and skin science (I'm a licensed esthetician!)
   <br>🛋 DIY interior design — painting murals & restoring furniture
-  <br>💻 Currently designing a TypeScript—React portfolio website.
+  
+<p>🖥 Currently working on my <a href="https://yillachen.com" target="_blank">portfolio</a> — adding accessibility features!</p>
 
 <h3>Languages & Tech</h3>
 <div>
