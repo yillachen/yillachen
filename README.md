@@ -7,7 +7,7 @@ Outside of coding & 🏄 the web, I enjoy:
   <br>💆‍♀️ Skincare and skin science (I'm a licensed esthetician!)
   <br>🛋 DIY interior design — painting murals & restoring furniture
   
-<p>🖥 Currently working on my <a href="https://yillachen.com" target="_blank">portfolio</a> — adding accessibility features!</p>
+<p>🖥 Currently working on an interactive design website!</p>
 
 <h3>Languages & Tech</h3>
 <div>
